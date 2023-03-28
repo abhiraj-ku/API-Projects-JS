@@ -1,5 +1,5 @@
 # API-Projects-JS
-This Repo Contains all the projects i Have made using API's
+This Repo Contains all the Learning and projects i Have made using API's
 
 Topics learned till now :
 
