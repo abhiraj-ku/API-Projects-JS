@@ -12,6 +12,7 @@ Topics learned till now :
 3.) how to work with api 
 
 
-Projects made till Now :
+
+So Projects made till Now :
 
     1.) weather ☀️ app
