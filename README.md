@@ -12,4 +12,4 @@ So Projects made till Now :
 
     1.) weather ☀️ app
     
-    2.) Dictionary App
+    2.) Dictionary App(https://abhi-dictionary12.netlify.app/)
