@@ -4,6 +4,7 @@ This Repo Contains all the Learning and projects i Have made using API's
 Topics learned till now :
 1.) fetch Api
 2.) async & await 
+3.) Promises
 3.) how to work with api 
 
 
