@@ -5,7 +5,7 @@ Topics learned till now :
 1.) fetch Api
 2.) async & await 
 3.) Promises
-3.) how to work with api 
+4.) how to work with api 
 
 
 
