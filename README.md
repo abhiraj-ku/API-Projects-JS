@@ -15,4 +15,4 @@ So Projects made till Now :
     
     2.) Dictionary App(https://abhi-dictionary12.netlify.app/)
     
-    3.) Github Profile Generator
+    3.) Github Profile Generator(simple Ui)
