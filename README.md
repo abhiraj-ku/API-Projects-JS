@@ -17,4 +17,4 @@ So Projects made till Now :
     
     3.) Github Profile Generator(simple Ui)
     
-    4.)Github Profile Search(simple Ui)
+    4.)Github Profile Search(Better Ui)
