@@ -81,3 +81,10 @@ button.btn-active {
   color: #555;
   margin-bottom: 20px;
 }
+
+@media (max-width: 920px) {
+  #categories {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+}
