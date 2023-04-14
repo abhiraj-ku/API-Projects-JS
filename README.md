@@ -7,6 +7,8 @@ Topics learned till now :
 3.) Promises
 4.) how to work with api 
 
+dont't forget to star it
+
 
 
 So Projects made till Now :
