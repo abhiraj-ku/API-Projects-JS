@@ -23,4 +23,4 @@ So Projects made till Now :
     
     5.) News Aggregator App(made using NewsAPI.org)
     
-    6.) Giphy Search App
+    6.) Giphy Search App  (https://giffy-gif.netlify.app/)
