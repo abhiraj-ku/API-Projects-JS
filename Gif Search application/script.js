@@ -38,6 +38,7 @@ let generateGif = () => {
       });
     });
 };
+//this function will set display none if search input is empty
 function removeElement() {
   const input = document.getElementById("search-box");
   console.log(input.value);
