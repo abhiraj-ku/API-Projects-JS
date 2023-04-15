@@ -38,5 +38,16 @@ let generateGif = () => {
       });
     });
 };
+function removeElement() {
+  const input = document.getElementById("search-box");
+  console.log(input.value);
+  input.addEventListener("keyup", () => {
+    if (input.value.trim() === "") {
+      document.querySelector(".loader").style.display = "none";
+      document.querySelector(".wrapper").style.display = "none";
+    }
+  });
+}
+removeElement();
 submission.addEventListener("click", generateGif);
 window.addEventListener("load", generateGif);
