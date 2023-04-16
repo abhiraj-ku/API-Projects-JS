@@ -13,7 +13,7 @@ dont't forget to star it
 
 So Projects made till Now :
 
-    1.) weather ☀️ app (https://abhi-weather12.netlify.app/)
+    1.) weather ☀️ app ( https://abhi-weather12.netlify.app/ )
     
     2.) Dictionary App(https://abhi-dictionary12.netlify.app/)
     
