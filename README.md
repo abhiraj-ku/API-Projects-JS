@@ -15,7 +15,8 @@ So Projects made till Now :
 
     1.) weather ☀️ app ( https://abhi-weather12.netlify.app/ ) :This website uses open weather api to fetch content 
     
-    2.) Dictionary App(https://abhi-dictionary12.netlify.app/)
+    2.) Dictionary App(https://abhi-dictionary12.netlify.app/) :This website uses dictionary api to fetch content 
+    
     
     3.) Github Profile Generator(simple Ui)
     
