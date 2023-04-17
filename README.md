@@ -20,7 +20,8 @@ So Projects made till Now :
     
     3.) Github Profile Generator(simple Ui)
     
-    4.)Github Profile Search(Better Ui) (Link: https://searchgprofile.netlify.app/)
+    4.)Github Profile Search(Better Ui) (Link: https://searchgprofile.netlify.app/) :This website uses Github api to fetch content 
+    
     
     5.) News Aggregator App(made using NewsAPI.org)
     
