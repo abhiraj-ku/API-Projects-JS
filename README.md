@@ -27,3 +27,5 @@ So Projects made till Now :
     
     6.) Giphy Search App  (https://giffy-gif.netlify.app/) :This website uses Giphy API to fetch content and while the data is being fetched 
               and displayed on the site , a loader animation is displayed.
+              
+    7.) ChatGpt prompt box using chatgpt api from rapidapi
