@@ -7,11 +7,7 @@ Topics learned till now :
 3.) Promises
 4.) how to work with api 
 
-dont't forget to star it
-
-
-
-So Projects made till Now :
+dont't forget to star it  .....btw Projects made till Now :
 
     1.) weather ☀️ app ( https://abhi-weather12.netlify.app/ ) :This website uses open weather api to fetch content 
     
