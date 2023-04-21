@@ -6,6 +6,7 @@ Topics learned till now :
 2.) async & await 
 3.) Promises
 4.) how to work with api 
+5.) Rapid API
 
 dont't forget to star it  .....btw Projects made till Now :
 
