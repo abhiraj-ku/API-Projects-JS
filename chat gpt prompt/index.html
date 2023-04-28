@@ -5,15 +5,44 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>chat gpt prompt</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
   </head>
   <body>
-    <div>
-      <input type="text" id="prompt" />
-      <button onclick="callGptApi()">Ask Gpt</button>
-    </div>
-    <div>
-      <p id="result"></p>
-    </div>
+    <section class="side-bar">
+      <div class="side-btn">
+        <button>&plus; &nbsp; &nbsp; New Chat</button>
+        <div class="hamburger-times">
+          <i class="fa fa-times"></i>
+        </div>
+      </div>
+      <div class="history"></div>
+      <nav>
+        <p>Made by Abhishek</p>
+      </nav>
+    </section>
+    <section class="main">
+      <h1>Abhi Gpt</h1>
+      <div class="hamburger">
+        <i class="fa fa-bars"></i>
+      </div>
+      <p id="output"></p>
+      <div class="bottom-section">
+        <div class="input-container">
+          <input class="input" />
+          <div id="submit">➢</div>
+        </div>
+      </div>
+      <p class="info">
+        Free Research Preview. ChatGPT may produce inaccurate information about
+        people, places, or facts. ChatGPT Mar 23 Version.
+      </p>
+    </section>
     <script src="script.js"></script>
   </body>
 </html>
