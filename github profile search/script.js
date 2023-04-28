@@ -1,4 +1,4 @@
-const apiUrl = "https://api.github.com/users/";
+const apiUrl = "https://api.github.com/users/";   //this api doesn't require any authentication / api key 
 const main = document.querySelector("#main");
 const searchBox = document.querySelector("#search");
 const getUser = async (username) => {
