@@ -1,4 +1,4 @@
-const API_KEYS = "nWDizdnsZdqpLGaay40bDXH4Azp1f5UH";
+const API_KEYS = "Your_API_Key_Here";  //use your own API key
 const submission = document.getElementById("submit-btn");
 let generateGif = () => {
   let loader = document.querySelector(".loader");
