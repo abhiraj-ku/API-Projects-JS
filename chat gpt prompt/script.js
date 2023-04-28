@@ -4,6 +4,8 @@ const result = document.getElementById("result");
 const pp = prompt.value;
 console.log(pp);
 
+//method 1 Using Rapid Chat Gpt API 
+
 function callGptApi() {
   const pp = prompt.value;
   const options = {
