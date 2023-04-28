@@ -7,7 +7,7 @@ searchBtn.addEventListener("click", () => {
   const userName = searchInput.value;
   const url = apiUrl + userName;
 
-  fetch(url)
+  fetch(url)     //This Doesn;t Require Authentication or API Key
     .then((response) => response.json())
     .then((data) => {
       const outputHtml = `
