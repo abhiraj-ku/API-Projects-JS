@@ -1,5 +1,5 @@
 const url = " https://api.dictionaryapi.dev/api/v2/entries/en/";
-
+//this doesn't require api key
 const result = document.getElementById("result");
 const sound = document.getElementById("sound");
 const btn = document.getElementById("search-btn");
