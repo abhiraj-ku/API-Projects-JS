@@ -31,3 +31,5 @@ dont't forget to star it  .....btw Projects made till Now :
               and displayed on the site , a loader animation is displayed.
               
     7.) ChatGpt prompt box using chatgpt api from rapidapi
+    
+    8.) Chat GPT Prompt With Improved UI (api hit limit reached)
