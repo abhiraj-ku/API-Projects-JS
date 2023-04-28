@@ -1,4 +1,4 @@
-const apiKey = "624c149b352745519ee8f5fa19fe73e1";
+const apiKey = "Your_API_Key_Here";
 let category = "business";
 
 const btnBusiness = document.getElementById("btn-business");
