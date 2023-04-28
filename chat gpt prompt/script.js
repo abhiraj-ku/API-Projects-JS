@@ -12,7 +12,7 @@ function callGptApi() {
     method: "POST",
     headers: {
       "content-type": "application/json",
-      "X-RapidAPI-Key": "API_KEY_HERE",
+      "X-RapidAPI-Key": "API_KEY_HERE",   // if you want to use this code make sure you use your own api key
       "X-RapidAPI-Host": "openai80.p.rapidapi.com",
     },
     // body: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":"${pp}"}]}',
