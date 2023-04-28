@@ -30,6 +30,9 @@ function callGptApi() {
   }
 }
 
+
+// Method 2 Using Async & Await and try and catch for proper error handling
+
 const API_KEY = "API_KEY_HERE";
 
 const outputElem = document.getElementById("output");
